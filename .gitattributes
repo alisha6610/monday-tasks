@@ -1,2 +1,74 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alisha Babar Portfolio</title>
+</head>
+<body>
+    <header>
+    <h1>Alisha Babar</h1>
+    <p> Student</p>
+    </header>
+
+    <section>
+  <h2>About Me</h2>
+      <p>I am a BS student currently learning Web Development. I have completed my Matriculation and FSc. Iam passionate about Information Technology and enjoy learning new things. I consider myself a fast learner and always look for opportunities to grow my skills. </p>
+    </section>
+
+    <section>
+<h2>Education</h2>
+<ul>
+    <li>Matriculation Science</li>
+     <li>FSc  Pre-Medical</li>
+    <li>Currently pursuing BS</li>
+</ul>
+    </section>
+      
+
+    <SEction>
+       <h2>Skills</h2>
+     <ul>
+          <li>HTML Basics</li>
+         <li>Good Communication</li>
+        <li>Fast Learner</li>
+     </ul>
+    </SEction>
+
+
+    <section>
+            <h2>Projects</h2>
+    <ul>
+       <li>Personal Portfolio Website</li>
+       <li>Practice landing pages and small web projects</li>
+    </ul>
+    </section>
+
+     <section>
+            <h2>Interests</h2>
+     <ul>
+              <li>Web Development</li>
+            <li>learning new technologies</li>
+             <li>Exploring IT and tech innovations</li>
+     </ul>
+     </section>
+
+
+<section>
+         <h2>Contact</h2>
+
+<a href="mailto:alishababar440@gmail.com">Send Email</a>
+
+</section>
+
+    <footer>
+
+<p>Created by Alisha Babar
+
+</p>
+
+    </footer>
+</body>
+</html>
